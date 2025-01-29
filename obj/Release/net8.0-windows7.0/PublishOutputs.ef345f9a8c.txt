@@ -1,0 +1,6 @@
+C:\Users\Esterffeson\source\repos\MacroMouse\bin\Release\net8.0-windows7.0\publish\MacroMouse.exe
+C:\Users\Esterffeson\source\repos\MacroMouse\bin\Release\net8.0-windows7.0\publish\MacroMouse.dll
+C:\Users\Esterffeson\source\repos\MacroMouse\bin\Release\net8.0-windows7.0\publish\MacroMouse.deps.json
+C:\Users\Esterffeson\source\repos\MacroMouse\bin\Release\net8.0-windows7.0\publish\MacroMouse.runtimeconfig.json
+C:\Users\Esterffeson\source\repos\MacroMouse\bin\Release\net8.0-windows7.0\publish\MacroMouse.dll.config
+C:\Users\Esterffeson\source\repos\MacroMouse\bin\Release\net8.0-windows7.0\publish\MacroMouse.pdb

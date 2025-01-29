@@ -1,0 +1,6 @@
+C:\Users\Esterffeson\source\repos\MacroMouse\obj\Debug\net6.0-windows7.0\MacroMouse.frmInicio.resources
+C:\Users\Esterffeson\source\repos\MacroMouse\obj\Debug\net6.0-windows7.0\MacroMouse.csproj.GenerateResource.cache
+C:\Users\Esterffeson\source\repos\MacroMouse\obj\Debug\net6.0-windows7.0\MacroMouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esterffeson\source\repos\MacroMouse\obj\Debug\net6.0-windows7.0\MacroMouse.AssemblyInfoInputs.cache
+C:\Users\Esterffeson\source\repos\MacroMouse\obj\Debug\net6.0-windows7.0\MacroMouse.AssemblyInfo.cs
+C:\Users\Esterffeson\source\repos\MacroMouse\obj\Debug\net6.0-windows7.0\MacroMouse.csproj.CoreCompileInputs.cache
